@@ -1,3 +1,4 @@
+## Facial Age Prediction with Deep Learning
 This project implements a deep learning model that predicts a person’s age from facial images using TensorFlow and MobileNetV2. 
 The model leverages transfer learning and applies data augmentation techniques such as random flipping, rotation, and zoom to improve accuracy and generalization. 
 Images are preprocessed by resizing to 224x224 pixels and normalized to match MobileNetV2’s input format. The dataset is organized with face images grouped in folders named by age labels.
